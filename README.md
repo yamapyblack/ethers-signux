@@ -1,10 +1,10 @@
 # ethers-signux
 Realize new UX with signing and validating by ethers.js
 
-** ethers.js ** is the popular web3 library of javascript that can make signature and verify it.
+**ethers.js** is the popular web3 library of javascript that can make signature and verify it.
 However, it's complex to use it because it have many funcitons and there are little documents.
 
-** ethers-signux ** makes you easy to sign and verify with ethers.js.
+**ethers-signux** makes you easy to sign and verify with ethers.js.
 
 ## Usage ℹ️
 
